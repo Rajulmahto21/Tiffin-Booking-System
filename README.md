@@ -15,6 +15,8 @@ The data that will be entered by the user will be saved , updated in the sql dat
 
 Kindly read the instructions given below throughly to setup the project successfully on your local machine.
 # Prequsites
+* Python
+    * IDE
 * Python Libraries
     * pandas
     * getpass
@@ -25,7 +27,10 @@ Kindly read the instructions given below throughly to setup the project successf
 * MySQL
    * Server
    * Workbench     
-    
+# Installation
+* Python : [a link](https://www.python.org/downloads)
+* Libraries : Use the pip install library_name command in terminal to install all libraries
+* MySQL : [a link](https://dev.mysql.com/downloads)
       
         
 
