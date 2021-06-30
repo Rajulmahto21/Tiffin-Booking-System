@@ -28,9 +28,9 @@ Kindly read the instructions given below throughly to setup the project successf
    * Server
    * Workbench     
 # Installation
-* Python : [a link](https://www.python.org/downloads)
+* Python : [https://www.python.org/downloads](https://www.python.org/downloads)
 * Libraries : Use the pip install library_name command in terminal to install all libraries
-* MySQL : [a link](https://dev.mysql.com/downloads)
+* MySQL : [https://dev.mysql.com/downloads](https://dev.mysql.com/downloads)
       
         
 
