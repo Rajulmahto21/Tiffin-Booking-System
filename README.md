@@ -52,6 +52,30 @@ if you have not set the password
 # How To Use
 * Here are some snips showing an example user using the system
 
+* 1 ![1](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/1.JPG)
+* 2 ![2](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/2.JPG)
+* 3 ![3](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/3.JPG)
+* 4 ![4](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/4.JPG)
+* 5a ![5a](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/5a.JPG)
+* 5b ![5b](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/5b.JPG)
+* 6a ![6a](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/6a.JPG)
+* 6b ![6b](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/6b.JPG)
+* 7 ![7](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/7.JPG)
+* 8 ![8](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/8.JPG)
+* 9 ![9](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/9.JPG)
+* 10a ![10a](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/10a.JPG)
+* 10b ![10b](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/10b.JPG)
+* 11 ![11](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/11.JPG)
+* 11a ![11a](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/11a.JPG)
+* 12 ![12](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/12.JPG)
+* 13 ![13](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/13.JPG)
+* 14 ![14](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/14.JPG)
+* 15a ![15a](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/15a.JPG)
+* 15b ![15b](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/15b.JPG)
+* 15c ![15c](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/15c.JPG)
+* 16a ![16a](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/16a.JPG)
+* 16b ![16b](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/16b.JPG)
+* ER DIAGRAM OF SQL DATABASE ![sql](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/sql2.JPG)
       
         
 
