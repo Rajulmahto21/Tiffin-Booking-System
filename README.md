@@ -42,10 +42,12 @@ Kindly read the instructions given below throughly to setup the project successf
 * Now open the python(.py) file while you have earlier downloaded and run the code.
      * WARNING! Visual Studio Code is recommended as some libraries may not work in terminal or other python IDE's.
 * Now in the 11th line use your mysql user and password in place of your_user and your_mysql_password respectively if you have not set the password then remove the passwd word.
+
 if you have set the password
 ![IMAGE:](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/mysql_connector_instruction.png)
 if you have not set the password
 ![IMAGE:](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/mysql_connector_1.png)
+
 * You have successfully started the Tiffin-Booking System ,you can now follow the instruction and explore it.
       
         
