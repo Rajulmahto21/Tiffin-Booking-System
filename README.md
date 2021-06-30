@@ -49,6 +49,9 @@ if you have not set the password
 ![IMAGE:](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/mysql_connector_1.png)
 
 * You have successfully started the Tiffin-Booking System ,you can now follow the instruction and explore it.
+# How To Use
+* Here are some snips showing an example user using the system
+
       
         
 
