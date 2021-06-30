@@ -17,10 +17,5 @@ Kindly read the instructions given below throughly to setup the project successf
 <h1>Prequsites</h1>
 * Python
     * Libraries to be installed
-        * pandas 
-        * getpass
-        * os
-        * tabulate
-        * datetime
-        * mysql.connector
+      
        
