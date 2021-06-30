@@ -37,9 +37,15 @@ Kindly read the instructions given below throughly to setup the project successf
 * Now follow the instructions in the commented section and run the statements one by one from top to bottom.
     * WARNING! Don't make any changes in the table name and delete the database with the similar name as the script if you have any.
 * When you reach at the point creating Master_Login table ,create the table and before inserting values in it you can change the master username and password by changing the create_username and create_password under the quoted marks according to yourself.
+![IMAGE:](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/masterlogin_instruction.png)
 * After running all the statements use the SHOW TABLES; statement and verify that you have created all the tables successfully.
 * Now open the python(.py) file while you have earlier downloaded and run the code.
      * WARNING! Visual Studio Code is recommended as some libraries may not work in terminal or other python IDE's.
+* Now in the 11th line use your mysql user and password in place of your_user and your_mysql_password respectively if you have not set the password then remove the passwd word.
+if you have set the password
+![IMAGE:](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/mysql_connector_instruction.png)
+if you have not set the password
+![IMAGE:](https://github.com/Rajulmahto21/Tiffin-Booking-System/blob/main/Screen%20Snips/mysql_connector_1.png)
 * You have successfully started the Tiffin-Booking System ,you can now follow the instruction and explore it.
       
         
